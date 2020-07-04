@@ -1,0 +1,4 @@
+R5T.D0027.Base - Base definitions library for the IMachineNameProvider service, NOT-async, stringly-typed.
+
+Goals
+
